@@ -8,10 +8,8 @@
 
 
 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- ![GitHub Followers](https://img.shields.io/github/followers/seu-usuario?label=Seguidores&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/seu-usuario?label=Estrelas&style=social)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryalves&show_icons=true&theme=synthwave)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryalves&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
  &nbsp;
  &nbsp;
@@ -20,28 +18,14 @@
 <a href="https://www.instagram.com/anabeatrizsse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.anabeatrizsse1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@anabeatrizsse" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ana-beatriz-8bb893290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-## Sobre mim
 
-- 👩‍💻 Desenvolvedora Java 
-- 🖥️ Utilizo o VS Code e o PgAdmin
-- 📧 Contato: anabeatrizsse1@gmail.com
+## PILHA
+  <img align="center" alt="JAVA" height="30" width="40" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="C++" height="30" width="40" src= https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
 
-## Redes Sociais
-
-- [Instagram](https://www.instagram.com/anabeatrizsse/)
-- [LinkedIn](https://www.linkedin.com/in/anabeatriz/)
-
-## Projetos
-
-- [Meu Projeto Java](https://github.com/seu-usuario/projeto-java)
-- [Meu Projeto C++](https://github.com/seu-usuario/projeto-cplusplus)
-- [Meu Projeto de Banco de Dados](https://github.com/seu-usuario/projeto-banco-de-dados)
-
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  ## Ferramentas
+  <img align=center alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align=center alt="VScode" height="30" width="40" src="https://img.shields.io/badge/VScode-316192?style=for-the-badge&logo=VScodel&logoColor=white">
+  <img align=center alt="Netbeans" height="30" width="40" src="https://img.shields.io/badge/NetBeans-316192?style=for-the-badge&logo=VScodel&logoColor=white">
