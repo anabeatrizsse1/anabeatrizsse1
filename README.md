@@ -1,7 +1,7 @@
 
 # Olá, sou Ana Beatriz! 👋
 
-  # Transformando ideias em bits e bytes. 💡🔍"
+  # Transformando ideias em bits e bytes. 💡🔍
 
 <p align="center">   Estudante de Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia-UESB.  
  <br><br>  Em processo de aprendizagem e desenvolvimento em Java. Em busca de desafios tecnológicos e soluções para problemas complexos.
